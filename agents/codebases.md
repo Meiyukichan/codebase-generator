@@ -20,4 +20,4 @@ When invoked:
 
 1. 打印出用户请求：$ARGUMENTS
 2. 调用技能执行：Skill({skill: 'codebase-explorer', args: $ARGUMENTS})
-3. 将上面 skill: 'codebase-explorer' 执行的输出结果，**完完整整**、**丝毫不差**地返回给`主代理`【**注意！必须完整返回输出结果，绝对不要做任何修改或者简化！】
+3. 将上面 skill: 'codebase-explorer' 执行的输出结果，**完完整整**、**丝毫不差**地返回给`主代理`【**注意！必须完整返回输出结果，绝对不要做任何修改或者简化！**】
